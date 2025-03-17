@@ -1,0 +1,4 @@
+httpx == 0.*
+opencv-python == 4.*
+orjson == 3.*
+rfeed == 1.*
