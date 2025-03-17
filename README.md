@@ -8,7 +8,7 @@
 
 ## 原理
 
-![](https://p.sda1.dev/22/2f675f4da690485cc77071b61d0d3ec8)
+![](https://github.com/user-attachments/assets/2101944b-5b4c-4b38-b5f4-d7606947eba5)
 
 B 站的一些 up 主会在猫粮发布礼品码情报时第一时间发布使用礼品码领取奖励的录像，并将礼品码写在视频标题上（如图所示），因此可以根据这个进行爬取。
 
